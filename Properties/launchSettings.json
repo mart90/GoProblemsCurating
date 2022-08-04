@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Go": {
+      "commandName": "Project"
+    },
+    "ProblemGenerator": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\martb\\source\\repos\\GoProblemGenerator"
+    }
+  }
+}
